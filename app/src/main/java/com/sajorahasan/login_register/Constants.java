@@ -19,6 +19,9 @@ public class Constants {
     public static final String EMAIL = "email";
     public static final String UNIQUE_ID = "unique_id";
 
+    public static final String RESET_PASSWORD_INITIATE = "resPassReq";
+    public static final String RESET_PASSWORD_FINISH = "resPass";
+
     public static final String TAG = "HasanSajora";
 
 }
